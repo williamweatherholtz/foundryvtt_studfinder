@@ -1,0 +1,81 @@
+{
+  "name": "Test",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "background": {
+    "src": "setnh3s8bmua1.jpg",
+    "scaleX": 1,
+    "scaleY": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "tint": null
+  },
+  "foreground": null,
+  "foregroundElevation": 20,
+  "thumb": "worlds/awkward/assets/scenes/aIwh51WeHnGora6x-thumb.webp",
+  "width": 2500,
+  "height": 3125,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 1,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1681848897796,
+  "globalLight": false,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "flags": {
+    "levels": {
+      "backgroundElevation": 0,
+      "lightMasking": true,
+      "weatherElevation": null
+    },
+    "wall-height": {
+      "advancedVision": true
+    },
+    "exportSource": {
+      "world": "awkward",
+      "system": "D35E",
+      "coreVersion": "10.291",
+      "systemVersion": "2.1.3"
+    }
+  },
+  "_stats": {
+    "systemId": "D35E",
+    "systemVersion": "2.1.3",
+    "coreVersion": "10.291",
+    "createdTime": 1681848898872,
+    "modifiedTime": 1681911393289,
+    "lastModifiedBy": "oaFim6aDwZpA1G5q"
+  }
+}
